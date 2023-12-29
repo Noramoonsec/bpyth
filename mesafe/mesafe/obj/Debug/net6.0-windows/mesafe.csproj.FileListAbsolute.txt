@@ -1,0 +1,17 @@
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.csproj.AssemblyReference.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.Form1.resources
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.csproj.GenerateResource.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.AssemblyInfoInputs.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.AssemblyInfo.cs
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.csproj.CoreCompileInputs.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\bin\Debug\net6.0-windows\mesafe.exe
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\bin\Debug\net6.0-windows\mesafe.deps.json
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\bin\Debug\net6.0-windows\mesafe.runtimeconfig.json
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\bin\Debug\net6.0-windows\mesafe.dll
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\bin\Debug\net6.0-windows\mesafe.pdb
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.dll
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\refint\mesafe.dll
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.pdb
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\mesafe.genruntimeconfig.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\mesafe\mesafe\obj\Debug\net6.0-windows\ref\mesafe.dll
