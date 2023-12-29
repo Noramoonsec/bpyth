@@ -1,0 +1,11 @@
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\bin\Debug\koordinat.exe.config
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\bin\Debug\koordinat.exe
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\bin\Debug\koordinat.pdb
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.csproj.AssemblyReference.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.csproj.SuggestedBindingRedirects.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.Form1.resources
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.Properties.Resources.resources
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.csproj.GenerateResource.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.csproj.CoreCompileInputs.cache
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.exe
+C:\Users\ankbillab\Desktop\BUSE R DERSİ\koordinat\koordinat\obj\Debug\koordinat.pdb
