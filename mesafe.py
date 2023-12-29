@@ -1,0 +1,8 @@
+x1 = int(input("x1 i giriniz: "))
+x2 = int(input("x2 i giriniz: "))
+y1 = int(input("y1 i giriniz: "))
+y2 = int(input("y2 i giriniz: "))
+a=((x2-x1)**2)
+b=((y2-y1)**2)
+mesafe=((a + b)**(0.5)) 
+print(mesafe)
