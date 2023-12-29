@@ -1,0 +1,17 @@
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.csproj.AssemblyReference.cache
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.Form1.resources
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.csproj.GenerateResource.cache
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.AssemblyInfoInputs.cache
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.AssemblyInfo.cs
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.csproj.CoreCompileInputs.cache
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\bin\Debug\net6.0-windows\tictaktoe.exe
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\bin\Debug\net6.0-windows\tictaktoe.deps.json
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\bin\Debug\net6.0-windows\tictaktoe.runtimeconfig.json
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\bin\Debug\net6.0-windows\tictaktoe.dll
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\bin\Debug\net6.0-windows\tictaktoe.pdb
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.dll
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\refint\tictaktoe.dll
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.pdb
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\tictaktoe.genruntimeconfig.cache
+C:\Users\ankbillab\source\repos\tictaktoe\tictaktoe\obj\Debug\net6.0-windows\ref\tictaktoe.dll
